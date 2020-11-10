@@ -2,6 +2,42 @@
 
 ---
 
+# November 2020
+
+## Afvang, opslag en hergebruik van CO<sub>2</sub> (CCUS)
+
+De afvang, opslag en hergebruik van CO<sub>2</sub> (CCUS, carbon capture, utilisation and storage) is een verzameling technologieën om CO<sub>2</sub> te verminderen die kan worden toegepast op verschillende plekken in het energiesysteem. Het ETM neemt de toepassing van CCUS nu in veel meer detail mee dan voorheen.
+
+Het ETM onderscheidt vier vormen van CO<sub>2</sub>-afvang:
+
+ * Afvang in de industrie. Het ETM maakt een onderscheid in de afvangpotenties, kosten en energieverbruiken van verschillende subsectoren.
+ * Afvang in de elektriciteitssector
+ * Afvang bij de productie van waterstof ('blauwe' waterstof)
+ * Direct Air Capture, een technologie om CO<sub>2</sub> direct uit de lucht te halen
+
+![](/assets/pages/whats_new/ccus_supply_demand_mekko.png)
+
+Het ETM onderscheidt vier vormen van CO<sub>2</sub>-gebruik:
+
+ * Ondergrondse opslag in lege gas- en olievelden op zee
+ * Hergebruik van afgevangen CO<sub>2</sub> als grondstof voor synthetische kerosine
+ * Hergebruik van afgevangen CO<sub>2</sub> als grondstof voor synthetische methanol
+ * 'Overig' hergebruik, bijvoorbeeld voor de productie van frisdrank of in kassen
+
+![](/assets/pages/whats_new/co2-sankey-en.png)
+
+Het ETM onderscheidt twee vormen van CO<sub>2</sub>-transport:
+  
+  * Via pijpleidingen
+  * Transport van vloeibare CO<sub>2</sub> in schepen
+
+Ontdek deze nieuwe functionaliteiten in de sectie **[Aanbod → CCUS][ccus slide]**! Een gedetailleerd overzicht van de wijzigingen staat in onze [documentatie](https://docs.energytransitionmodel.com/main/co2-ccus) (Engelstalig).
+
+## Negatieve emissies
+Het ETM kan nu rekenen met zogeheten 'negatieve' CO<sub>2</sub> emissies. Deze emissies kunnen 'ontstaan' wanneer CO<sub>2</sub>-afvang wordt toegepast bij processen die biomassa gebruiken en wanneer CO<sub>2</sub> direct uit de lucht wordt gehaald door middel van Direct Air Capture. Bekijk ook onze [documentatie](https://docs.energytransitionmodel.com/main/co2-negative-emissions).
+
+![](/assets/pages/whats_new/co2-negative-emissions.png)
+
 # Juni 2020
 
 ## Meerdere elektrische interconnectoren
@@ -121,6 +157,9 @@ Voor opgeslagen scenarios is het vanaf nu mogelijk om de waardes van je gezette 
 De bestandsindeling van de draaiprofielen en prijscurves van elektriciteit is veranderd. Per kolom uit de data-export wordt nu met "input" of "output" aangegeven of het om vraag of aanbod van elektriciteit gaat. Flexibiliteitsoplossingen hebben nu dus ook zowel een input als output kolom. Hiermee is de vorm van de data-export voor elektriciteit consistenter met de data-exports voor netwerkgas en waterstof.
 
 [Hier vind je de aangepaste data-export voor elektriciteit!][data export slide]
+
+
+[ccus slide]: scenario/supply/ccus/capture-of-co2
 
 [weather years slide]: /scenario/flexibility/flexibility_weather/extreme-weather-conditions
 
