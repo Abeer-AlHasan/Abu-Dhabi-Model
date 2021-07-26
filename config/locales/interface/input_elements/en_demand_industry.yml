@@ -110,9 +110,7 @@ en:
         burners will then lower their production (when these boilers are present).
         The average FLH of P2H boilers in industry can be seen in the 'Flexibility
         options'-table (go to the entire chart list in the upper right corner -> click
-        on 'see more charts\"). There are more technologies that use excess electricity.
-        Therefore, the order in which the flexibility technologies have to be applied
-        can be chosen <a href=\"/scenario/flexibility/excess_electricity/order-of-flexibility-options\">here</a>.\r\n</br>"
+        on 'see more charts\")."
     industry_other_paper_burner_hydrogen_share:
       title: H<sub>2</sub>-fired heater
       short_description:
@@ -396,9 +394,7 @@ en:
         burners will then lower their production (when these boilers are present).
         The average FLH of P2H boilers in industry can be seen in the 'Flexibility
         options'-table (go to the entire chart list in the upper right corner -> click
-        on 'see more charts\"). There are more technologies that use excess electricity.
-        Therefore, the order in which the flexibility technologies have to be applied
-        can be chosen <a href=\"/scenario/flexibility/excess_electricity/order-of-flexibility-options\">here</a>.\r\n</br>"
+        on 'see more charts\")."
     industry_chemicals_other_heater_electricity_share:
       title: Electric boiler
       short_description:
@@ -570,9 +566,7 @@ en:
         burners will then lower their production (when these boilers are present).
         The average FLH of P2H boilers in industry can be seen in the 'Flexibility
         options'-table (go to the entire chart list in the upper right corner -> click
-        on 'see more charts\"). There are more technologies that use excess electricity.
-        Therefore, the order in which the flexibility technologies have to be applied
-        can be chosen <a href=\"/scenario/flexibility/excess_electricity/order-of-flexibility-options\">here</a>.\r\n</br>"
+        on 'see more charts\")."
     industry_other_food_burner_hydrogen_share:
       title: H<sub>2</sub>-fired heater
       short_description:
@@ -647,9 +641,7 @@ en:
         burners will then lower their production (when these boilers are present).
         The average FLH of P2H boilers in industry can be seen in the 'Flexibility
         options'-table (go to the entire chart list in the upper right corner -> click
-        on 'see more charts\"). There are more technologies that use excess electricity.
-        Therefore, the order in which the flexibility technologies have to be applied
-        can be chosen <a href=\"/scenario/flexibility/excess_electricity/order-of-flexibility-options\">here</a>.\r\n</br>"
+        on 'see more charts\")."
     industry_chemicals_refineries_burner_hydrogen_share:
       title: H<sub>2</sub>-fired heater
       short_description:
