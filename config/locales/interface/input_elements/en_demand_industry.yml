@@ -106,15 +106,15 @@ en:
       short_description:
       description: |
         These power-to-heat (P2H) boilers can be installed as an add-on for
-        gas and hydrogen heaters. In hours when the willingness-to-pay of these boilers 
+        gas and hydrogen heaters. In hours when the willingness-to-pay of these boilers
         exceeds the electricity price, they will use electricity to produce heat and the
-        gas and hydrogen heaters will lower their production. You can set the 
-        willingness-to-pay of these boilers in the 
+        gas and hydrogen heaters will lower their production. You can set the
+        willingness-to-pay of these boilers in the
         <a href="/scenario/flexibility/flexibility_conversion/conversion-to-heat-for-industry">
         Flexibility</a> section. </br></br>
-        Note that for this slider to have an effect, capacity of either gas or hydrogen 
-        heaters needs to be installed as well. The average amount of full-load hours of 
-        the P2H boilers can be seen in the 'Flexible electricity demand technologies'-table 
+        Note that for this slider to have an effect, capacity of either gas or hydrogen
+        heaters needs to be installed as well. The average amount of full-load hours of
+        the P2H boilers can be seen in the 'Flexible electricity demand technologies'-table
         (click on "see more charts" in the upper right corner).
     industry_other_paper_burner_hydrogen_share:
       title: H<sub>2</sub>-fired heater
@@ -131,16 +131,6 @@ en:
         in the future. \r\n</br></br>\r\nIn Europe, steel production has grown by
         0.5% annually since 2001. Globally, growth is more than 5% with China the
         biggest contributor (~16% annually).  "
-    industry_steel_blastfurnace_bat_consumption_useable_heat_share:
-      title: Blast furnace BAT
-      short_description:
-      description: "Blast furnaces are part of extensive industrial complexes that
-        have a technical lifetime of decades. Few adjustments are possible during
-        their lifetime, making optimal efficiencies difficult to attain. Best available
-        technology (BAT) blast furnaces are built according to latest insights. Such
-        blast furnaces would be roughly 10% more efficient than conventional blast
-        furnaces.\r\n</br></br>\r\nHere you can indicate what share of iron and steel
-        production uses BAT blast furnaces.\r\n<br>"
     industry_steel_blastfurnace_current_consumption_useable_heat_share:
       title: Blast furnace
       short_description:
@@ -209,7 +199,7 @@ en:
       short_description:
       description: |
         Here you can indicate the total size of the central ICT industry in the future.
-        The demand for the start year of your scenario is set as the demand from the 
+        The demand for the start year of your scenario is set as the demand from the
         economic sector "Information and communication" (NACE J).
     industry_useful_demand_for_other_ict_efficiency:
       title: Efficiency improvement
@@ -395,15 +385,15 @@ en:
       short_description:
       description: |
         These power-to-heat (P2H) boilers can be installed as an add-on for
-        gas and hydrogen heaters. In hours when the willingness-to-pay of these boilers 
+        gas and hydrogen heaters. In hours when the willingness-to-pay of these boilers
         exceeds the electricity price, they will use electricity to produce heat and the
-        gas and hydrogen heaters will lower their production. You can set the 
-        willingness-to-pay of these boilers in the 
+        gas and hydrogen heaters will lower their production. You can set the
+        willingness-to-pay of these boilers in the
         <a href="/scenario/flexibility/flexibility_conversion/conversion-to-heat-for-industry">
         Flexibility</a> section. </br></br>
-        Note that for this slider to have an effect, capacity of either gas or hydrogen 
-        heaters needs to be installed as well. The average amount of full-load hours of 
-        the P2H boilers can be seen in the 'Flexible electricity demand technologies'-table 
+        Note that for this slider to have an effect, capacity of either gas or hydrogen
+        heaters needs to be installed as well. The average amount of full-load hours of
+        the P2H boilers can be seen in the 'Flexible electricity demand technologies'-table
         (click on "see more charts" in the upper right corner).
     industry_chemicals_other_heater_electricity_share:
       title: Electric boiler
@@ -572,15 +562,15 @@ en:
       short_description:
       description: |
         These power-to-heat (P2H) boilers can be installed as an add-on for
-        gas and hydrogen heaters. In hours when the willingness-to-pay of these boilers 
+        gas and hydrogen heaters. In hours when the willingness-to-pay of these boilers
         exceeds the electricity price, they will use electricity to produce heat and the
-        gas and hydrogen heaters will lower their production. You can set the 
-        willingness-to-pay of these boilers in the 
+        gas and hydrogen heaters will lower their production. You can set the
+        willingness-to-pay of these boilers in the
         <a href="/scenario/flexibility/flexibility_conversion/conversion-to-heat-for-industry">
         Flexibility</a> section. </br></br>
-        Note that for this slider to have an effect, capacity of either gas or hydrogen 
-        heaters needs to be installed as well. The average amount of full-load hours of 
-        the P2H boilers can be seen in the 'Flexible electricity demand technologies'-table 
+        Note that for this slider to have an effect, capacity of either gas or hydrogen
+        heaters needs to be installed as well. The average amount of full-load hours of
+        the P2H boilers can be seen in the 'Flexible electricity demand technologies'-table
         (click on "see more charts" in the upper right corner).
     industry_other_food_burner_hydrogen_share:
       title: H<sub>2</sub>-fired heater
@@ -652,15 +642,15 @@ en:
       short_description:
       description: |
         These power-to-heat (P2H) boilers can be installed as an add-on for
-        gas and hydrogen heaters. In hours when the willingness-to-pay of these boilers 
+        gas and hydrogen heaters. In hours when the willingness-to-pay of these boilers
         exceeds the electricity price, they will use electricity to produce heat and the
-        gas and hydrogen heaters will lower their production. You can set the 
-        willingness-to-pay of these boilers in the 
+        gas and hydrogen heaters will lower their production. You can set the
+        willingness-to-pay of these boilers in the
         <a href="/scenario/flexibility/flexibility_conversion/conversion-to-heat-for-industry">
         Flexibility</a> section. </br></br>
-        Note that for this slider to have an effect, capacity of either gas or hydrogen 
-        heaters needs to be installed as well. The average amount of full-load hours of 
-        the P2H boilers can be seen in the 'Flexible electricity demand technologies'-table 
+        Note that for this slider to have an effect, capacity of either gas or hydrogen
+        heaters needs to be installed as well. The average amount of full-load hours of
+        the P2H boilers can be seen in the 'Flexible electricity demand technologies'-table
         (click on "see more charts" in the upper right corner).
     industry_chemicals_refineries_burner_hydrogen_share:
       title: H<sub>2</sub>-fired heater

@@ -129,17 +129,6 @@ nl:
         gaat groeien of afnemen.\r\n</br></br>\r\nBinnen Europa is de staalproductie
         vanaf 2001 met ongeveer 0,5% per jaar gestegen. Wereldwijd is dit meer dan
         5% per jaar, met China als belangrijkste land (16% per jaar).\r\n"
-    industry_steel_blastfurnace_bat_consumption_useable_heat_share:
-      title: Hoogoven BAT
-      short_description:
-      description: "Hoogovencomplexen zijn omvangrijk en hebben een levensduur van
-        tientallen jaren. Tijdens deze levensduur kan een beperkt aantal aanpassingen
-        worden gemaakt aan de installatie, waardoor een optimale efficiëntie lastig
-        te bereiken is. De hoogoven BAT (best available technology) is een hoogoven
-        die volgens de meest recente stand van zaken wordt gebouwd. Aangenomen wordt
-        dat een hoogoven BAT 10% efficiënter is dan een conventionele hoogoven.\r\n</br></br>\r\nGeef
-        hier aan welk aandeel de hoogoven BAT heeft bij de productie van ijzer en
-        staal.\r\n<br>"
     industry_steel_blastfurnace_current_consumption_useable_heat_share:
       title: Hoogoven
       short_description:
