@@ -12,7 +12,7 @@
             </svg>
           = I18n.t('header.survey')
 
-    - if APP_CONFIG[:feedback_email]
+    - if Settings.feedback_email
       = render partial: 'layouts/etm/feedback_nav_item'
 
     %li.locale.nav-item
