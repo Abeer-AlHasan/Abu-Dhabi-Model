@@ -105,7 +105,7 @@ ActiveRecord::Schema.define(version: 2021_05_12_120247) do
     t.index ["updated_at"], name: "index_sessions_on_updated_at"
   end
 
-  create_table "surveys", options: "ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci", force: :cascade do |t|
+  create_table "surveys", options: "ENGINE=InnoDB DEFAULT CHARSET=utf8", force: :cascade do |t|
     t.bigint "user_id"
     t.string "background", limit: 256
     t.integer "how_often"
