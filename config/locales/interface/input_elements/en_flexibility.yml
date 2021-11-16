@@ -311,3 +311,24 @@ en:
         to hydrogen. This slider allows this hydrogen to be used in the central hydrogen
         network. Any excess hydrogen is exported. The efficiency of elektrolysers can
         be adjusted <a href=\"/scenario/costs/costs_hydrogen/hydrogen-production\" >here</a>."
+    connection_capacity_always_on_wind_turbine_inland:
+      title: Relative grid connection capacity
+      short_description:
+      description: |
+        Sample text
+    connection_capacity_always_on_solar_pv_solar_radiation:
+      title: Relative grid connection capacity
+      short_description:
+      description: |
+        Sample text
+    battery_capacity_always_on_wind_turbine_inland:
+      title: Relative battery capacity
+      short_description:
+      description: |
+        Sample text
+    battery_capacity_always_on_solar_pv_solar_radiation:
+      title: Relative battery capacity
+      short_description:
+      description: |
+        Sample text
+
