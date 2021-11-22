@@ -5,8 +5,12 @@ import HourlyBase from './HourlyBase';
 import negativeRegionRect from './utils/negativeRegionRect';
 
 class MeritOrderHourlyFlexibility extends HourlyBase {
-  filterYValue(serie, value) {
-    return serie && serie.key === 'total_demand' ? value : -value;
+  filterSeriesValues(values, serie) {
+    if (serie?.key === 'total_demand') {
+      return values;
+    }
+
+    return values.map((value) => -value);
   }
 
   draw() {
