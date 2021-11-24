@@ -148,22 +148,20 @@ en:
       title: Wind parks with storage systems
       short_description:
       description: |
-        In the ETM you can install wind turbines that have an integrated battery system 
-        and reduced grid connection capacity. Here you can set the capacity of the battery
-        and the grid connection, relative to the installed capacity of the turbines.
-        For these sliders to be effective you therefore need to install these wind turbines 
-        with battery systems. You can do this in the Supply section, under 
+        Here you can set the capacity of the battery and the grid connection, relative to 
+        the installed capacity of wind turbines with an integrated battery system. For 
+        these sliders to be effective you therefore need to have these types of turbines 
+        installed. You can do this in the Supply section, under 
         <a href="/scenario/supply/electricity_renewable/wind-turbines">
         Renewable electricity</a>.
     flexibility_power_storage_solar_pv_solar_radiation:
       title: Solar parks with storage systems
       short_description:
       description: |
-        In the ETM you can install solar PV plants that have an integrated battery system 
-        and reduced grid connection capacity. Here you can set the capacity of the battery
-        and the grid connection, relative to the installed capacity of the plants.
-        For these sliders to be effective you therefore need to install these solar PV plants 
-        with battery systems. You can do this in the Supply section, under 
+        Here you can set the capacity of the battery and the grid connection, relative to 
+        the installed capacity of solar PV plants with an integrated battery system. For
+        these sliders to be effective you therefore need to have these types of plants 
+        installed. You can do this in the Supply section, under 
         <a href="/scenario/supply/electricity_renewable/solar-power">
         Renewable electricity</a>.
     flexibility_flexibility_power_to_heat:
