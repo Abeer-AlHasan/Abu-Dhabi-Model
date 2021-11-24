@@ -282,6 +282,8 @@
   requires_merit_order: true
   dependent_on: ''
   output_element_type_name: hourly_stacked_area
+  config:
+    downsample_with: max
 - under_construction: false
   unit: MW
   percentage: false
@@ -295,3 +297,5 @@
   requires_merit_order: true
   dependent_on: ''
   output_element_type_name: hourly_stacked_area
+  config:
+    downsample_with: max
