@@ -361,9 +361,10 @@ en:
         connection capacity threshold and starts to release it again when the production drops 
         below the threshold. If the battery cannot consume any more electricity due to charging 
         capacity or volume constraints, the excess electricity production will be curtailed. </br></br>
-        The storage volume is dependent on the charging capacity and will therefore also 
-        be updated if you change this slider. You can see the total battery capacity and 
-        storage volume in the technical and financial properties.
+        The storage volume is related to the charging capacity by a fixed ratio. This means 
+        that the storage volume will therefore also be updated if you change this slider. 
+        To see the effect of this slider on the total battery capacity and storage volume,
+        you can click on the technical and financial properties.
     battery_capacity_always_on_solar_pv_solar_radiation:
       title: Relative battery capacity
       short_description:
@@ -378,7 +379,8 @@ en:
         connection capacity threshold and starts to release it again when the production drops 
         below the threshold. If the battery cannot consume any more electricity due to charging 
         capacity or volume constraints, the excess electricity production will be curtailed. </br></br>
-        The storage volume is dependent on the charging capacity and will therefore also 
-        be updated if you change this slider. You can see the total battery capacity and 
-        storage volume in the technical and financial properties.
+        The storage volume is related to the charging capacity by a fixed ratio. This means 
+        that the storage volume will therefore also be updated if you change this slider. 
+        To see the effect of this slider on the total battery capacity and storage volume,
+        you can click on the technical and financial properties.
 
