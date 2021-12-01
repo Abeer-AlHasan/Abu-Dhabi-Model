@@ -364,7 +364,7 @@ en:
         The storage volume is related to the charging capacity by a fixed ratio. This means 
         that the storage volume will therefore also be updated if you change this slider. 
         To see the effect of this slider on the total battery capacity and storage volume,
-        you can click on the technical and financial properties.
+        you can click on the 'Technical and financial properties'.
     battery_capacity_always_on_solar_pv_solar_radiation:
       title: Relative battery capacity
       short_description:
@@ -382,5 +382,5 @@ en:
         The storage volume is related to the charging capacity by a fixed ratio. This means 
         that the storage volume will therefore also be updated if you change this slider. 
         To see the effect of this slider on the total battery capacity and storage volume,
-        you can click on the technical and financial properties.
+        you can click on the 'Technical and financial properties'.
 

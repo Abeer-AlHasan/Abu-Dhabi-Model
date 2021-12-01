@@ -145,7 +145,7 @@ en:
         for the different network levels. Excess electricity is stored and supplied
         to the grid later, once the "excess event" has passed.
     flexibility_power_storage_wind_turbine_inland:
-      title: Wind parks with storage systems
+      title: Wind turbines with storage systems
       short_description:
       description: |
         Here you can set the capacity of the battery and the grid connection, relative to 
@@ -155,7 +155,7 @@ en:
         <a href="/scenario/supply/electricity_renewable/wind-turbines">
         Renewable electricity</a>.
     flexibility_power_storage_solar_pv_solar_radiation:
-      title: Solar parks with storage systems
+      title: Solar plants with storage systems
       short_description:
       description: |
         Here you can set the capacity of the battery and the grid connection, relative to 
