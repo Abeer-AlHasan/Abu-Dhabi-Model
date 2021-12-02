@@ -139,7 +139,7 @@ en:
         on your list and so on. Finally, any remaining excess electricity is curtailed.
         You can drag and drop the technologies in the desired order."
     flexibility_flexibility_power_storage:
-      title: Stand-alone storage systems
+      title: Storage systems
       short_description:
       description: Using the sliders below you can set the electricity storage options
         for the different network levels. Excess electricity is stored and supplied
